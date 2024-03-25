@@ -28,7 +28,10 @@
 #### Enabling Developer Option.
 🔑On your device settings search for ```build number``` and click on it seven times. <br> 🔑Unlock your device <br> 🔑Now Developer option has been enabled.
 
-#### Enabling USB Debugging mode
+#### Enabling USB Debugging and OEM unlocking mode.
 🔆Open developer option you will find an option USB Debugging Mode just enable it.
+![USB debugging ON.jpg](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/f0b86755-1772-49a1-bfcc-8090f349f4a6)
+
+🔆Also enable OEM Unlocking option.
 
 
