@@ -79,6 +79,8 @@ Then [follow same.](#running-commands)
 
 
 ## For Locking Bootloader
+🇮🇳 I think you are irritated while unlocked bootloader 😂🤣 <br>
+🇮🇳 so for u Another way to lock the bootloader🛅
 🇮🇳 All steps are same only run ```fastboot flashing lock``` instead of running ```fastboot flashing unlock```  and follow same method.
 
 
