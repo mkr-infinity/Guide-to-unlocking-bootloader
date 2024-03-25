@@ -36,5 +36,12 @@
 
 ![OEM unlocked option.jpg](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/542d3ee5-6a35-4c9f-a5c3-a70d09f2471c)
 
-####  Connect device to pc,laptop,from where you eant to run commands.
+####  Connecting device to pc,laptop,from where you want to run commands.
+🔗 connect usb to device and plug to pc. <br>
+🖥️Open CMD or Powershell(WIN+R type ```cmd``` press Enter) <br>
 📜Now run ```adb devices``` to see if your device is connected or not.
+![adb devics.png](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/8d62d8ac-5744-4f2d-8161-a94b8087f5d0)
+
+☝️☝️☝️ if showing a device like this then everything 🆗<br>
+
+👇👇👇👇👇if not showing like this .
