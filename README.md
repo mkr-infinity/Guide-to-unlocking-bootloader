@@ -1,5 +1,6 @@
-### This is the begainer guide to unlock bootloader.If u don't have any knowledge about this don't worry i will explain each step from beginning.
+### This is the begainer guide to unlock bootloader by Kaif😇.If u don't have any knowledge about this don't worry i will explain each step from beginning.
 
+[SEE FOR LOCKING THE BOOTLOADER](#for locking bootloader)
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
 <br>👉 Having a way to restore♻️ stock if any device bricks📲 occurs.
@@ -76,3 +77,21 @@ Then follow same [step](https://github.com/mkr-infinity/Guide-to-unlocking-bootl
 😇🙅‍♂️ These are the proofs that we have unlocked our bootloader successfully.
 <br>
 
+
+## For Locking Bootloader
+🇮🇳 All steps are same only run ```fastboot flashing lock``` instead of running ```fastboot flashing unlock```  and follow same method.
+
+
+
+#### If u found something wrong in this connect with me.
+<div id="badges">
+  <a href="https://www.instagram.com/mkr_infinity/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=blue" alt="Instagram Badge"/>
+  </a>  
+</div>
+
+<div id="badges">
+  <a href="https://t.me/mkr_infinity">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=blue" alt="Instagram Badge"/>
+  </a>  
+</div>
