@@ -85,7 +85,7 @@ Then [follow same.](#running-commands)
 
 
 
-#### If u found something wrong in this connect with me.
+#### Connect with me🇮🇳.
 <div id="badges">
   <a href="https://www.instagram.com/mkr_infinity/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=blue" alt="Instagram Badge"/>
