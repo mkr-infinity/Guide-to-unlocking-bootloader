@@ -34,4 +34,7 @@
 
 🔆Also enable OEM Unlocking option.
 
+![OEM unlocked option.jpg](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/542d3ee5-6a35-4c9f-a5c3-a70d09f2471c)
 
+####  Connect device to pc,laptop,from where you eant to run commands.
+📜Now run ```adb devices``` to see if your device is connected or not.
