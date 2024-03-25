@@ -25,5 +25,10 @@
 <br>
 
 # Starting
-Enabling Developer Option.
+#### Enabling Developer Option.
+🔑On your device settings search for ```build number``` and click on it seven times. <br> 🔑Unlock your device <br> 🔑Now Developer option has been enabled.
+
+#### Enabling USB Debugging mode
+🔆Open developer option you will find an option USB Debugging Mode just enable it.
+
 
