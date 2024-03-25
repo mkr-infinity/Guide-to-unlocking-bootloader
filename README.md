@@ -1,6 +1,6 @@
-### This is the begainer guide to unlock bootloader by Kaif😇.If u don't have any knowledge about this don't worry i will explain each step from beginning.
+### This is the begainer guide to unlock bootloader by Kaif😇. <br> If u don't have any knowledge about this don't worry i will explain each step from beginning.
 
-[SEE FOR LOCKING THE BOOTLOADER](#for-locking-bootloader)
+[SEE THIS FOR LOCKING🔒 THE BOOTLOADER](#for-locking-bootloader)
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
 <br>👉 Having a way to restore♻️ stock if any device bricks📲 occurs.
@@ -63,7 +63,7 @@ after this ☝️ you will receive a prompt to unlock the bootloader in device�
 >👉 JUST REMOVE AND INSERT DATA CABLE AGAIN.
 
 After reconnecting run 👉 ```fastboot flashing unlock``` again to show the bootloader prompt.<br>
-Then follow same [step](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/blob/main/README.md#running-commands).
+Then [follow same.](#running-commands)
 <br>
 #### Unlocking the bootloader successfully.
 🙅‍♂️Afyer successfully unlocking u will see like this in pc👇
