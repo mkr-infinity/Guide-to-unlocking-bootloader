@@ -1,6 +1,6 @@
 ### This is the begainer guide to unlock bootloader by Kaif😇.If u don't have any knowledge about this don't worry i will explain each step from beginning.
 
-[SEE FOR LOCKING THE BOOTLOADER](#for locking bootloader)
+[SEE FOR LOCKING THE BOOTLOADER](#for-locking-bootloader)
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
 <br>👉 Having a way to restore♻️ stock if any device bricks📲 occurs.
