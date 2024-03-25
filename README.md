@@ -62,4 +62,4 @@ after this ☝️ you will receive a prompt to unlock the bootloader in device�
 >👉 JUST REMOVE AND INSERT DATA CABLE AGAIN.
 
 After reconnecting run 👉 ```fastboot flashing unlock``` again to show the bootloader prompt.<br>
-Then follow same step.
+Then follow same [step](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/blob/main/README.md#running-commands).
