@@ -44,4 +44,12 @@
 
 ☝️☝️☝️ if showing a device like this then everything 🆗<br>
 
-👇👇👇👇👇if not showing like this .
+>[!NOTE]
+>🔀If your device is not showing then try to connect data cable/usb correctly or try another data cable.
+><br>🔀If data cable is original then check if u have missed enabling usb debugging.
+
+👉proceeding to next step after correctly showing attached devices.
+
+#### Running Commands.
+💢 Now run ```adb reboot bootloader``` 
+
