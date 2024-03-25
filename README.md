@@ -1,16 +1,11 @@
 ### This is the begainer guide to unlock bootloader.If u don't have any knowledge about this don't worry i will explain each step from beginning.
 
-
-
-
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
 <br>👉 Having a way to restore♻️ stock if any device bricks📲 occurs.
 <br>👉 A data cable that supports fastboot mode.(generally original will support).
 
 <br>
-<br>
-
 
 >[!WARNING]
 >❗This process will erase all your user data(like factory reset)
@@ -51,5 +46,20 @@
 👉proceeding to next step after correctly showing attached devices.
 
 #### Running Commands.
-💢 Now run ```adb reboot bootloader``` 
+💢Now run ```adb reboot bootloader``` (it will reboot your device to fastboot mode) <br>
+💢Now you are in ⏩ fastboot mode.😇 <br>
+💢To check if device is connected or not run👉 ```fastboot devices``` , if it shows a device,then connected correctly. <br>
+💢Run ```fastboot flashing unlock``` <br>
 
+after this ☝️ you will receive a prompt to unlock the bootloader in device😇. <br>
+⚠️Just use volume down and volume up button and select yes , then press power button on device. <br>
+#### You may stuck at waiting for devices👇
+![ADB reboot bootloader waiting problem.png](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/52fda683-e389-4ce6-85a7-a8a15d8f75a8)
+
+>[!TIP]
+>💁‍♂️ I HAVE ALREADY TOLD U TO USE WORKING DATA CABLE. <br>
+>👉 U CAN TRY WITH REINSERTING DATA CABLE. <br>
+>👉 JUST REMOVE AND INSERT DATA CABLE AGAIN.
+
+After reconnecting run 👉 ```fastboot flashing unlock``` again to show the bootloader prompt.<br>
+Then follow same step.
