@@ -57,9 +57,22 @@ after this ☝️ you will receive a prompt to unlock the bootloader in device�
 ![ADB reboot bootloader waiting problem.png](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/52fda683-e389-4ce6-85a7-a8a15d8f75a8)
 
 >[!TIP]
->💁‍♂️ I HAVE ALREADY TOLD U TO USE WORKING DATA CABLE. <br>
+>🤦‍♂️ I HAVE ALREADY TOLD U TO USE WORKING DATA CABLE. <br>
 >👉 U CAN TRY WITH REINSERTING DATA CABLE. <br>
 >👉 JUST REMOVE AND INSERT DATA CABLE AGAIN.
 
 After reconnecting run 👉 ```fastboot flashing unlock``` again to show the bootloader prompt.<br>
 Then follow same [step](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/blob/main/README.md#running-commands).
+<br>
+#### Unlocking the bootloader successfully.
+🙅‍♂️Afyer successfully unlocking u will see like this in pc👇
+![fastboot flahsing unlock.png](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/a2309998-2627-41d0-ae72-88e377943919)
+<br>
+🤷‍♂️Now run ```fastboot reboot``` ( device will reboot now )
+<br>
+⚠️While rebooting you will see a message like this👇
+![Unlocked successfully.jpg](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/315e3320-e205-4d28-9e4b-d59013b5b9e1)
+<br>
+😇🙅‍♂️ These are the proofs that we have unlocked our bootloader successfully.
+<br>
+
