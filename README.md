@@ -22,6 +22,11 @@
 <br>
 
 # Starting
+> [!IMPORTANT]  
+> First you need to install ```adb``` and ```fastboot``` drivers to your computer. <br>
+> In case if u have downloaded it already then proceed to next.
+
+
 #### Enabling Developer Option.
 🔑On your device settings search for ```build number``` and click on it seven times. <br> 🔑Unlock your device <br> 🔑Now Developer option has been enabled.
 
