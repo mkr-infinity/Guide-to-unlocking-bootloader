@@ -1,6 +1,7 @@
 ### This is the begainer guide to unlock bootloader by Kaif😇. <br> If u don't have any knowledge about this don't worry i will explain each step from beginning.
-
-[SEE THIS FOR LOCKING🔒 THE BOOTLOADER](#for-locking-bootloader) <br>OR <br>
+ 
+  <br>
+  
 [ALL COMMNADS USED](#all-commands-used-for%EF%B8%8F)
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
@@ -89,21 +90,12 @@ Then [follow same.](#running-commands)
 🇮🇳 so for u Another way to lock the bootloader🛅
 🇮🇳 All steps are same only run ```fastboot flashing lock``` instead of running ```fastboot flashing unlock```  and follow same method.
 
-#### All commands used for..💁‍♂️
-🔒for locking 
-```bash
+#### Summary..💁‍♂️
+```
 adb devices
 adb reboot bootloader
 fastboot devices
 fastboot flashing unlock
-fastboot reboot
-```
-🔓for unlocking
-```bash
-adb devices
-adb reboot bootloader
-fastboot devices
-fastboot flashing lock
 fastboot reboot
 ```
 
