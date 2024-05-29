@@ -1,8 +1,12 @@
 ### This is the begainer guide to unlock bootloader by Kaif😇. <br> If u don't have any knowledge about this don't worry i will explain each step from beginning.
  
   <br>
+
+  >[!NOTE]
+>This guide is for Lenovo, but logic is same depending on your device unlocking the bootloader may be different you can refer to internet.
+
   
-[ALL COMMNADS USED](#all-commands-used-for%EF%B8%8F)
+
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
 <br>👉 Having a way to restore♻️ stock if any device bricks📲 occurs.
