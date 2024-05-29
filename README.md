@@ -5,7 +5,7 @@
   >[!NOTE]
 >This guide is for Lenovo, but logic is same depending on your device unlocking the bootloader may be different you can refer to internet.
 
-  
+### If you find anything wrong feel free to create an issue.
 
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
