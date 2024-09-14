@@ -33,7 +33,7 @@
 
 
 #### Enabling Developer Option.
-🔑On your device settings search for ```build number``` and click on it seven times. <br> 🔑Unlock your device <br> 🔑Now Developer option has been enabled.
+🔑On your device settings search for ```build number``` and click on it seven times. <br> 🔑Now a popup will appear fro your screen password . Proceed it.  <br> 🔑Now Developer option has been enabled.
 
 #### Enabling USB Debugging and OEM unlocking mode.
 🔆Open developer option you will find an option USB Debugging Mode just enable it.
