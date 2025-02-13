@@ -106,7 +106,6 @@ fastboot reboot
 
 #### You can join these telegram groups for help.
 [Lenovo TB-X306X](https://t.me/lenovotbx306xchat) 👈 join this for more support. <br>
-[Premium MODZ](https://t.me/mkrinfinity) 👈 join this for premium apk for free.
 
 #### Connect with me🇮🇳.
 <div id="badges">
